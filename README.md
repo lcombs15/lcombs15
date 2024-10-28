@@ -27,14 +27,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-    - a start up project (more to come)
-    - Git hooks (See below)
+    - A full-stack React / NextJS app called [Achievemint](https://achievemint.dev/) (Repo pinned below)
+- ⚙️ I'm maintaining
+    - "Git hooks" - a tool for putting ticket numbers in commits (Repo pinned below)
 - 🌱 I’m currently learning:
-    - More and more about [Spring](https://spring.io/)
-    - Getting more comformatbale with [Kotlin](https://kotlinlang.org/) everyday
-    - Learning and working with [tsoa](https://github.com/lukeautry/tsoa) - A tool for documenting TypeScript APIs with Swagger
+    - All things React
+    - Cypress component testing
 - 👯 I’m looking to collaborate on:
     - Anything open source + full stack web!
 - 📫 How to reach me: [l-combs@hotmail.com](mailto:l-combs@hotmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/lcombs15/)
 - ⚡ Fun fact: 
     - My last semester in College at [NKU](http://www.nku.edu) I worked as a full-time Software Engineer! To this day I'm not sure how I managed those 50/hour work weeks on top of being a full time student!
